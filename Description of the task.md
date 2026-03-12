@@ -15,11 +15,11 @@ The final deliverable had to be written in English and prepared for **two differ
 
 ---
 
-# Deliverables
+## Deliverables
 
 Two separate documents were created as a result of the assignment.
 
-### 1. System Overview for External Users
+#### 1. System Overview for External Users
 
 Audience:
 - Tour Operators
@@ -34,9 +34,7 @@ Purpose:
 
 This document focuses on **system usage and business logic**, without internal implementation details.
 
----
-
-### 2. System Overview for Internal Users
+#### 2. System Overview for Internal Users
 
 Audience:
 - Business Analysts
@@ -54,7 +52,7 @@ This document is designed to support **team onboarding and understanding of core
 
 ---
 
-# Key Topics Covered
+## Key Topics Covered
 
 The documentation describes the following aspects of the system:
 - multi-level **distribution chain** of travel products
@@ -66,7 +64,7 @@ The documentation describes the following aspects of the system:
 
 ---
 
-# Result
+## Result
 
 As a result of this assignment, a structured system overview was produced that:
 - clearly defines the **distribution model of the platform**
