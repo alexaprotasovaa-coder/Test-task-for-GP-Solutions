@@ -19,7 +19,9 @@ The final deliverable had to be written in English and prepared for **two differ
 
 Two separate documents were created as a result of the assignment.
 
-### 1. [System Overview for External Users](System Overview (External).md)
+### 1. System Overview for External Users
+
+[Link](System Overview (External).md)
 
 Audience:
 - Tour Operators
@@ -34,7 +36,9 @@ Purpose:
 
 This document focuses on **system usage and business logic**, without internal implementation details.
 
-### 2. [System Overview for Internal Users](System Overview (Internal).md)
+### 2. System Overview for Internal Users
+
+[Link](System Overview (Internal).md)
 
 Audience:
 - Business Analysts
