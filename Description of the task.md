@@ -21,7 +21,7 @@ Two separate documents were created as a result of the assignment.
 
 ### 1. System Overview for External Users
 
-[Link](System Overview (External).md)
+[Link](https://github.com/alexaprotasovaa-coder/Test-task-for-GP-Solutions/blob/main/System%20Overview%20(External).md)
 
 Audience:
 - Tour Operators
@@ -38,7 +38,8 @@ This document focuses on **system usage and business logic**, without internal i
 
 ### 2. System Overview for Internal Users
 
-[Link](System Overview (Internal).md)
+[Link]((https://github.com/alexaprotasovaa-coder/Test-task-for-GP-Solutions/blob/main/System%20Overview%20(Internal).md)
+)
 
 Audience:
 - Business Analysts
