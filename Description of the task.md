@@ -38,8 +38,7 @@ This document focuses on **system usage and business logic**, without internal i
 
 ### 2. System Overview for Internal Users
 
-[Link]((https://github.com/alexaprotasovaa-coder/Test-task-for-GP-Solutions/blob/main/System%20Overview%20(Internal).md)
-)
+[Link](https://github.com/alexaprotasovaa-coder/Test-task-for-GP-Solutions/blob/main/System%20Overview%20(Internal).md)
 
 Audience:
 - Business Analysts
